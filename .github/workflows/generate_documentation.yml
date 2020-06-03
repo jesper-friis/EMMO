@@ -1,11 +1,10 @@
 name: Generate and copy EMMO documentation to GitHub Pages
 
 on:
-  push
-  #push:
-  #  branches:
-  #    - '[0-9]+.[0-9]+.[0-9]+'
-  #    - '[0-9]+.[0-9]+.[0-9]+-*'
+  push:
+    branches:
+      - '[0-9]+.[0-9]+.[0-9]+'
+      - '[0-9]+.[0-9]+.[0-9]+-*'
 
 jobs:
 
