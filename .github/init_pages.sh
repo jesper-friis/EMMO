@@ -16,7 +16,7 @@ pagesdir="$1"
 version="$2"
 
 versiondir="$pagesdir/versions/$version"
-pagesurl=git@github.com:emmo-repo/emmo-repo.github.io.git
+pagesurl=git@github.com:jesper-friis/jesper-friis.github.io.git
 
 
 # Add directory for current version if it does not exists
